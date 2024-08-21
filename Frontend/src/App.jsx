@@ -1,9 +1,9 @@
-function App() {
+const App = () => {
   return (
     <>
-      <div className="text-center text-blue-700">auth</div>
+      <div className="min-h-screen flex justify-center relative overflow-hidden bg-slate-300"></div>
     </>
   );
-}
+};
 
 export default App;
