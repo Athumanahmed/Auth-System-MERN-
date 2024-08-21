@@ -1,0 +1,67 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if you're using Node.js)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+
+# Logs and runtime files
+logs/
+*.log
+*.out
+*.pid
+
+# Compiled files and build directories
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.class
+*.jar
+*.war
+*.ear
+/build/
+/dist/
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.workspace
+*.sln
+*.swp
+
+# Backup files
+*.bak
+*.tmp
+*.orig
+*.old
+
+# Config files for development (these might contain sensitive information)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS Finder files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# Linux files
+*~
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Package managers
+*.lock
